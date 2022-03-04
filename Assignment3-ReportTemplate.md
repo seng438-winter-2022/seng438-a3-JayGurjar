@@ -121,7 +121,7 @@ Else assertTrue(false);
 
 **Detailed report of coverage achieved of each class and method. **
 
-The screenshots can be found (./ScreenShots).
+The screenshots can be found [here](/ScreenShots).
 
 **Pros and Cons of coverage tools used and Metrics reported**
 
