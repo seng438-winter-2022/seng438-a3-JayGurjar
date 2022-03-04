@@ -121,14 +121,13 @@ Else assertTrue(false);
 
 **Detailed report of coverage achieved of each class and method. **
 
-The screenshots can be found here.
+The screenshots can be found (./ScreenShots).
 
 **Pros and Cons of coverage tools used and Metrics reported**
 
 EclEmma was used with Eclipse IDE as code coverage tool. 
 
 **Pros: **
-
 
 
 * The tool could be installed from Eclipse, therefore eliminating any 3rd party requirements. 
@@ -182,7 +181,6 @@ Developing unit tests to get high code coverage.
 
 We learned how to use EclEmma and create units tests that maximize coverage.
 
-~~ ~~
 
 **Comments and Feedback**
 
