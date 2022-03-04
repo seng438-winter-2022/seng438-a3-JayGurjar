@@ -4,7 +4,7 @@
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 0.828 seconds.
+Conversion time: 0.682 seconds.
 
 
 Using this Markdown file:
@@ -17,7 +17,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β33
-* Fri Mar 04 2022 14:48:08 GMT-0800 (PST)
+* Fri Mar 04 2022 14:53:16 GMT-0800 (PST)
 * Source doc: SENG 438 Assignment 1 Report
 * Tables are currently converted to HTML tables.
 ----->
@@ -119,6 +119,8 @@ Else assertTrue(false);
 
 **Have 2 tests for the data utilities **
 
+**(Add stuff Kai and Numan)**
+
 **Detailed report of coverage achieved of each class and method. **
 
 The screenshots can be found [here](/ScreenShots).
@@ -128,6 +130,7 @@ The screenshots can be found [here](/ScreenShots).
 EclEmma was used with Eclipse IDE as code coverage tool. 
 
 **Pros: **
+
 
 
 * The tool could be installed from Eclipse, therefore eliminating any 3rd party requirements. 
@@ -143,26 +146,26 @@ EclEmma was used with Eclipse IDE as code coverage tool.
 
 **A comparison of advantages and disadvantages of requirements-based test generation and coverage-based test generation.**
 
-Advantages of requirements-based test generation: 
+**Advantages of requirements-based test generation: **
 
 
 
 * Promotes a more creative approach to testing methods. 
 * The simplicity of test creation is based on requirement boundaries.
 
-Disadvantages of requirements-based test generation: 
+**Disadvantages of requirements-based test generation: **
 
 
 
 * Lack of confirmation in regards to what extent the code needs to be tested/covered.
 
-Advantages of coverage-based test generation: 
+**Advantages of coverage-based test generation: **
 
 
 
 * Extensive testing and more targeted unit test
 
-Disadvantages of coverage-based test generation:
+**Disadvantages of coverage-based test generation:**
 
 
 
