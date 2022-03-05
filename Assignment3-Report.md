@@ -99,7 +99,7 @@ The unit tests were developed based on the strategy we learned for white box tes
 
 **Data Flow diagram**
 
-! [ScreenShots/DataFlow.png]
+![](ScreenShots/DataFlow.png)
 
 calculateColumnTotal:
 
@@ -149,7 +149,7 @@ DU(1, 6, total) = {[1, 2, 3, 5, 6] , [1, 2, 4, 5, 6]}
 
 **calculateColumnTotalnegBoundary()**: DU(1, 1, data) = {[1]}, DU(1, 5, column) = {[1, 2, 3, 5], {1, 2, 4, 5}}, DU(1, 5, rowCount) = {[1, 2, 3, 5], [1, 2, 4, 5]}, DU(2, 4, n) = {[2], [4]}, DU(1, 6, total) = {[1, 2, 3, 5, 6] , [1, 2, 4, 5, 6]}
 
-! [ScreenShots/DataFlow2.png]
+![](ScreenShots/DataFlow2.png)
 
 isNaNRange:
 
@@ -208,7 +208,7 @@ Else assertTrue(false);
 
 
 * **All screenshots are found in the screenshots folder.**
-   All screenshots can be found {here} [/ScreenShots]
+   All screenshots can be found [here](/ScreenShots)
 
 **Pros and Cons of coverage tools used and Metrics reported**
 
